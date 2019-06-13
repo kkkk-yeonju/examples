@@ -5,6 +5,7 @@ public class TestMain {
 		
 		System.out.println("Hello, Git SCM");
 		System.out.println("안뇽");
+		System.out.println("hi~~~~!");
 		
 	}
 
